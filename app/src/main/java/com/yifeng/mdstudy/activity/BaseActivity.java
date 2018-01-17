@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 /**
  * Created by yifeng on 16/8/4.

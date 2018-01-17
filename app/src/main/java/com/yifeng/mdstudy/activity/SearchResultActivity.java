@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 import com.yifeng.mdstudy.utils.ToastUtils;
 
 /**

@@ -19,9 +19,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 import com.yifeng.mdstudy.fragment.TabListFragment;
-
 import java.util.ArrayList;
 import java.util.List;
 

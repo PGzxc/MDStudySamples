@@ -7,8 +7,8 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AlertDialog;
 import android.view.View;
 
+import com.yifeng.mdstudy.R;
 import com.yifeng.mdstudy.utils.ToastUtils;
-import com.yifeng.mdstudysamples.R;
 
 /**
  * Created by yifeng on 16/8/7.

@@ -10,8 +10,8 @@ import android.support.v4.view.ViewCompat;
 import android.support.v4.view.ViewPager;
 import android.widget.TextView;
 
+import com.yifeng.mdstudy.R;
 import com.yifeng.mdstudy.fragment.TabContentFragment;
-import com.yifeng.mdstudysamples.R;
 
 import java.util.ArrayList;
 import java.util.List;

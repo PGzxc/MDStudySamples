@@ -13,7 +13,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 import com.yifeng.mdstudy.activity.PaletteDetailActivity;
 
 /**

@@ -10,7 +10,7 @@ import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.View;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 /**
  * Created by yifeng on 16/8/10.

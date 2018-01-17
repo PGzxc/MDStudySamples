@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.widget.ImageButton;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 import java.util.ArrayList;
 

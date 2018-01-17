@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 /**
  * Created by yifeng on 16/8/3.

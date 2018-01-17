@@ -10,7 +10,7 @@ import android.view.Menu;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 /**
  * Created by yifeng on 16/8/10.

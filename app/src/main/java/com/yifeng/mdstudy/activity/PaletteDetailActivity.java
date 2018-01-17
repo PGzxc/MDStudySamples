@@ -13,7 +13,7 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.ScrollView;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 /**
  * Created by yifeng on 16/8/10.

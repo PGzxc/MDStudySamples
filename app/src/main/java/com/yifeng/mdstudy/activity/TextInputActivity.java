@@ -6,9 +6,8 @@ import android.support.design.widget.TextInputLayout;
 import android.view.View;
 import android.widget.EditText;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 import com.yifeng.mdstudy.utils.ToastUtils;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

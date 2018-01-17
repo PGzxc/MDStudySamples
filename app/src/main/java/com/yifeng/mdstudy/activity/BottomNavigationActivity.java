@@ -3,7 +3,7 @@ package com.yifeng.mdstudy.activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-import com.yifeng.mdstudysamples.R;
+import com.yifeng.mdstudy.R;
 
 /**
  * Created by yifeng on 17/3/26.
